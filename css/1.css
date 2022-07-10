@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.arama-yazi {
+    width: 380px;
+    height: 20px;
+    background-color: white;
+    margin-left: 480px;
+    box-shadow: 5px 5px 8px -4px rgba(0,0,0,0.82);
+-webkit-box-shadow: 5px 5px 8px -4px rgba(0,0,0,0.82);
+-moz-box-shadow: 5px 5px 8px -4px rgba(0,0,0,0.82);
+}
+.arama-yazi2 {
+    width: 230px;
+    height: 20px;
+    background-color: white;
+    margin-left: 100px;
+    box-shadow: 5px 5px 8px -4px rgba(0,0,0,0.82);
+-webkit-box-shadow: 5px 5px 8px -4px rgba(0,0,0,0.82);
+-moz-box-shadow: 5px 5px 8px -4px rgba(0,0,0,0.82);
+}
+
+.button {
+    margin-left: 560px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 130px;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color: red;
+}
+.bg.green {
+    background-color: green;
+}
+
+.box {
+    float: left;
+    margin: 2px;
+    width: 33%;
+    height: 130px;
+    text-align: center;
+}
+
+p {
+    line-height: 0.5;
+}
+
+.margin {
+    margin: 5px;
+}
+
+.footer {
+    margin-top: 200px;
+    margin-left: 600px;
+    
+}
